@@ -1,5 +1,5 @@
-title:               New and Improved Digital Garden
-include:             ['_pages']
+title: Evan's Garden of Thoughts
+include: ["_pages"]
 exclude:
   - getfeeds.rb
   - util
@@ -8,11 +8,11 @@ exclude:
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
-baseurl:             ''
+baseurl: ""
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
-use_html_extension:  false
+use_html_extension: false
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
@@ -23,7 +23,7 @@ open_external_links_in_new_tab: true
 # as their browser will communicate with Twitter's servers.
 embed_tweets: true
 
-permalink:           pretty
+permalink: pretty
 relative_permalinks: false
 excerpt_separator: <!-- end excerpt -->
 
@@ -32,30 +32,25 @@ plugins:
   - jekyll-admin
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 collections:
   notes:
     output: true
     permalink: /:path/:slug
 
-
-
 defaults:
-  -
-    scope:
+  - scope:
       path: "**/*"
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
       tags: []
       bucket: note
-
 
 feeds:
   - name: AstronomyPictureOftheDay
