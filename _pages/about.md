@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Oh, you'd like to know more about me? Find me on twitter @eedumas
 
-Feel free to tell the world about what you love! 😍
+I also have an old site at [eedumas.com](www.eedumas.com) that you can check out

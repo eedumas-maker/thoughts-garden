@@ -6,12 +6,13 @@ permalink: /
 ---
 
 # Welcome! 
-![Potted Plant](/assets/potted-plant.png)
+<img src = "/assets/potted-plant.png" style = "float: right" alt="Potted Plant"/>
 This is my digital garden, a place to grow my ideas. 
 
 To learn more about these kinds of gardens, [check out this wonderful essay.](https://maggieappleton.com/garden-history)
 
 So what are the projects I'm working on? Check 'em out below!
+
 [[game|<img src="/assets/button-game.png" alt="I'm making a game"/>]]
 [[despair|<img src="/assets/button-despair.png" alt="I'm working on despair"/>]]
 [[essays|<img src="/assets/button-essays.png" alt="I'm writing some essays"/>]]

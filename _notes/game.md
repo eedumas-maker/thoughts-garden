@@ -20,6 +20,7 @@ Here's a glimpse into my process, it started with scraps of paper, then/still va
 |:--:| 
 | *All the notebooks, so far* |
 
+
 | ![the scraps](/assets/gamedev/game_notes.jpg) | 
 |:--:| 
 | *The embarassingly hoarded scraps of notes* |
@@ -27,4 +28,4 @@ Here's a glimpse into my process, it started with scraps of paper, then/still va
 
 Thankfully this digital garden will let me show my progress, my fits and starts, and any little successes and lessons I go through. 
 
-Want to know my inspiration? Come take a look[[game-inspiration]]
+Want to know my inspiration? Come take a look at my [[game-inspiration]]
