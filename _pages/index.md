@@ -13,10 +13,12 @@ To learn more about these kinds of gardens, [check out this wonderful essay.](ht
 
 So what are the projects I'm working on? Check 'em out below!
 
-[[game|<img src="/assets/button-game.png" alt="I'm making a game"/>]]
-[[despair|<img src="/assets/button-despair.png" alt="I'm working on despair"/>]]
-[[essays|<img src="/assets/button-essays.png" alt="I'm writing some essays"/>]]
+[[game|I'm learning to make games]]
 
-As you can tell, I dig the old Mac OS 6/7 look. Images above made in either [CloudPaint](https://www.cloudpaint.com/imageeditor) or [KidPix](https://kidpix.app/)
+[[despair|I want to rebrand despair]]
+
+[[essays|I'm writing?]]
+
+As you can tell, I dig the old Mac OS 6/7 look. All art made in either [CloudPaint](https://www.cloudpaint.com/imageeditor) or [KidPix](https://kidpix.app/)
 
 ![Mac Plus](/assets/mac.png)

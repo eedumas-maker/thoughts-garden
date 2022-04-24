@@ -2,6 +2,8 @@
 title: Making despair different
 ---
 
+<img src="/assets/button-despair.png" alt="I'm working on despair"/>
+
 Yes it's a bit of a funny idea, but I want to find a way to make despair and hopelessness more bearable. This isn't a silver-linings approach, more of a "well you're in this mess so how to make peace with it?"
 
 This comes from years of dealing with clinical depression long before this pandemic ever started. 

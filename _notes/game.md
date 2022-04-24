@@ -2,6 +2,8 @@
 title: Game Development is Wild
 ---
 
+<img src="/assets/button-game.png" alt="I'm making a game"/>
+
 I'm learning how to make a game, and at the same time learning how to learn to make a game.
 
 I approached the problem like anyone starting a new skill set, thinking it would be quick and easy. I had a 20 year old CS degree I hadn't used, and a vast experience playing games, so I was full of hubris.
