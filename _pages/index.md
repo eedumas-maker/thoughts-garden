@@ -13,11 +13,11 @@ To learn more about these kinds of gardens, [check out this wonderful essay.](ht
 
 So what are the projects I'm working on? Check 'em out below!
 
-[[game|I'm learning to make games]]
+[[game|I'm learning to make games]] - My latest note is an attempt to make a [[game-mvp|Minimum Viable Product]]
 
 [[despair|I want to rebrand despair]]
 
-[[essays|I'm writing?]]
+[[essays|I'm writing?]] - My latest bit of writing is [[on-sharing|How to Share when you Don't]]
 
 As you can tell, I dig the old Mac OS 6/7 look. All art made in either [CloudPaint](https://www.cloudpaint.com/imageeditor) or [KidPix](https://kidpix.app/)
 
