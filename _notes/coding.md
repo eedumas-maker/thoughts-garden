@@ -2,7 +2,7 @@
 title: I'm learning to code!
 ---
 
-
+<img src="/assets/coding.png" alt="I'm learning to code!"/>
 
 Fun fact, I was getting a computer science degree right as the dot-com bubble burst around 2000. I had thought it could get me a job, and while coding was fascinating I never really paid attention enough to get into it. I switched to psychology, and have been bouncing back and forth between the two ever since.
 

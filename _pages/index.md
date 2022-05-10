@@ -22,5 +22,6 @@ So what are the projects I'm working on? Check 'em out below!
 [[essays|I'm writing?]] - My latest bit of writing is [[on-sharing|How to Share when you Don't]]
 
 As you can tell, I dig the old Mac OS 6/7 look. All art made in either [CloudPaint](https://www.cloudpaint.com/imageeditor) or [KidPix](https://kidpix.app/)
+- Update: Sadly it seems that CloudPaint is down, but this new webapp [System7](https://system7.app/) looks promising as a replacement! 
 
 ![Mac Plus](/assets/mac.png)
