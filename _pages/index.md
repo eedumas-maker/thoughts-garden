@@ -13,6 +13,8 @@ To learn more about these kinds of gardens, [check out this wonderful essay.](ht
 
 So what are the projects I'm working on? Check 'em out below!
 
+[[coding|I'm learning to code!]] - I'm learning to program, it's like magic.
+
 [[game|I'm learning to make games]] - My latest note is an attempt to make a [[game-mvp|Minimum Viable Product]]
 
 [[despair|I want to rebrand despair]]
