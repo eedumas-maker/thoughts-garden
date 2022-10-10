@@ -18,3 +18,4 @@ I've looked at local bootcamps, notably [Alchemy Code Lab](https://www.alchemyco
 
 Now I'm considering [The Odin Project](http://theodinproject.com). It's an open-source project to help you become a web developer (there's so many flavors of what type of programmer you can be) but lets you pick between Ruby on Rails and Javascript. Back in 2000 I was learning Javascript so I think I'll pick that path, once I brush up on HTML, CSS, and more foundational learning. Plus it's free!
 
+Update: I'm well into The Odin Project and it's lovely!
