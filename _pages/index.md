@@ -19,7 +19,7 @@ So what are the projects I'm working on? Check 'em out below!
 
 [[despair|I want to rebrand despair]]
 
-[[essays|I'm writing?]] - My latest bit of writing is [[relearning|The emotional challenges of learning to code]]
+[[essays|I'm writing?]] - My latest bit of writing is this essay [[relearning|The emotional challenges of learning to code]] and a short story [[onionman|The Onion Man]]
 
 As you can tell, I dig the old Mac OS 6/7 look. All art made in either [CloudPaint](https://www.cloudpaint.com/imageeditor) or [KidPix](https://kidpix.app/)
 - Update: Sadly it seems that CloudPaint is down, but this new webapp [System7](https://system7.app/) looks promising as a replacement! 

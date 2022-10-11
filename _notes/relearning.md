@@ -6,6 +6,8 @@ title: The emotional challenges of learning to code
 permalink: /relearning
 ---
 
+### The emotional challenges of learning to code
+
 This wasn't what I was prepared for.
 
 The feelings of "oh crap I used to remember this now I have no idea" or "I just can't learn anything right now, I'll never get it."
@@ -30,4 +32,8 @@ Ignorance met with curiosity.
 
 I love this attitude, even if I don't often meet it. It's so accepting of my humanity, my fluidity, and my imperfectness. It's not like riding a bike. It's like looking for that thing I haven't used in so long I can't remember when I last used it.
 
-So I'll try to accept my humanity, embrace it even. I'll learn that I'll be forever learning. I'll not see my brain as some precious icon of my worth, but as a squishy moldable thing that's sometimes a pain, but ultimately rewarding. My brain needs love too.
+So I'll try to accept my humanity, embrace it even. I'll learn that I'll be forever learning. I'll not see my brain as some precious icon of my worth, but as a squishy moldable thing that's sometimes a pain, but ultimately rewarding. 
+
+My brain needs love too.
+
+![Sun](/assets/sun.png)
