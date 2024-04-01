@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-Oh, you'd like to know more about me? Find me on twitter @eedumas
-
-I also have an old site at [eedumas.com](www.eedumas.com) that you can check out
+I've been many things (therapist, perfumer, presenter, dishwasher) but throughout all of them I've had a desire to make peoples lives just a little less stressful. This is a place for me to explore my ideas, give my perspectives, and expand on topics that come up if you've ever had a conversation with me. If you haven't, reach out and let's chat!
 
 To make this wonderful garden I enlisted the help of my friend Ním, [check out his garden here](https://digigarden.onrender.com/). I also used Github, Jekyll (a way to make a blog using Github), and this wonderful text editing app called [Obsidian](https://obsidian.md/).
