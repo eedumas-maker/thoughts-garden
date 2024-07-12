@@ -7,7 +7,7 @@ permalink: /podcast
 ---
 
 #### Thanks for listening! 
-<iframe title="Embed Player" style="border: medium;" src="https://play.libsyn.com/embed/destination/id/4566192/height/192/theme/modern/size/large/thumbnail/yes/custom-color/2081a4/hide-playlist/yes/download/yes/font-color/fab9b9" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
+<iframe title="Embed Player" style="border: medium;" src="https://play.libsyn.com/embed/destination/id/4566192/height/660/theme/modern/size/large/thumbnail/yes/custom-color/2081a4/category/general/playlist-height/448/direction/backward/download/yes/font-color/fab9b9" height="660" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
 
 
 #### A little feedback form
