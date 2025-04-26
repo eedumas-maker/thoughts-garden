@@ -17,12 +17,18 @@ I also do a bit of writing, check out my recent notes below.
 <strong>Recently updated notes</strong>
 
 <ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 4 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
+  <li>
+    [[Position Statement]]
+  </li>
+  <li>
+    [[Professionalism needs an update]]
+  </li>
+  <li>
+    [[The trouble with winning vs losing language]]
+  </li>
+  <li>
+    [[Share your ideas, they are seeds!]]
+  </li>
 </ul>
 
 ![Mac Plus](/assets/mac.png)
