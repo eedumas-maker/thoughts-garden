@@ -128,7 +128,7 @@ GEM
       date
     to_slug (1.0.8)
     unicode-display_width (2.6.0)
-    webrick (1.7.0)
+    webrick (1.9.1)
     yaml (0.2.0)
 
 PLATFORMS
