@@ -1,6 +1,6 @@
 ---
 layout: note
-title: What's the 🌱 all about?
+title: What's the sprout all about?
 date: 2025-04-29 11:01:00
 ---
 
