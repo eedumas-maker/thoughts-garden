@@ -12,7 +12,8 @@ This is my [digital garden](https://maggieappleton.com/garden-history), a place 
 
 My latest project is my podcast [[podcast|Anti-Inflammatory Rhetoric]] check it out, and if you'd like you can [[feedback|leave some feedback here.]]
 
-I also do a bit of writing, check out my recent notes below:
+I also do a bit of writing, check out my recent notes below.
+([[What's the 🌱 all about?]])
 
 <strong>Recently updated notes</strong>
 <ul>
@@ -29,6 +30,6 @@ I also do a bit of writing, check out my recent notes below:
     [[The trouble with winning vs losing language🌱]]
   </li>
 </ul>
-[[What's the 🌱 all about?]]
+
 
 ![Mac Plus](/assets/mac.png)
