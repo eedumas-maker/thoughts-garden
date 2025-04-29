@@ -13,15 +13,17 @@ This is my [digital garden](https://maggieappleton.com/garden-history), a place 
 My latest project is my podcast [[podcast|Anti-Inflammatory Rhetoric]] check it out, and if you'd like you can [[feedback|leave some feedback here.]]
 
 I also do a bit of writing, check out my recent notes below.
-[[sprout|What's the 🌱 all about?]]
+<p>
+[[what-s-the-all-about|What's the 🌱 all about?]]
+</p>
 
 <strong>Recently updated notes</strong>
 <ul>
   <li>
-    [[position statement🌱]]
+    [[Position statement🌱]]
   </li>
   <li>
-    [[professionalism needs an update🌰]]
+    [[Professionalism needs an update🌰]]
   </li>
   <li>
     [[Share your ideas, they are seeds!🌱]]
