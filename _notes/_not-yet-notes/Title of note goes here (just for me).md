@@ -1,5 +1,5 @@
 ---
-layout: page [not sure what this is for]
+layout: page [not sure what this is for] or "note"?
 
 title: A note about cats [page title here]
 

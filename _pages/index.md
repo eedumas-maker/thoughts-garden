@@ -15,20 +15,20 @@ My latest project is my podcast [[podcast|Anti-Inflammatory Rhetoric]] check it 
 I also do a bit of writing, check out my recent notes below:
 
 <strong>Recently updated notes</strong>
-
 <ul>
   <li>
-    [[Position Statement]]
+    [[position statement🌱]]
   </li>
   <li>
-    [[Professionalism needs an update]]
+    [[professionalism needs an update🌰]]
   </li>
   <li>
-    [[The trouble with winning vs losing language]]
+    [[Share your ideas, they are seeds!🌱]]
   </li>
   <li>
-    [[Share your ideas, they are seeds!]]
+    [[The trouble with winning vs losing language🌱]]
   </li>
 </ul>
+[[What's the 🌱 all about?]]
 
 ![Mac Plus](/assets/mac.png)

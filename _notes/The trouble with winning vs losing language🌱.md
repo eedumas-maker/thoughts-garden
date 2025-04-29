@@ -1,5 +1,5 @@
 ---
-title: The trouble with winning vs losing language
+title: The trouble with winning vs losing language🌱
 
 last_modified_at: 2025-04-26 15:20:00
 ---
