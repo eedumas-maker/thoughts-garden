@@ -1,5 +1,5 @@
 ---
-title: Professionalism needs an update
+title: Professionalism needs an update 🌰
 
 last_modified_at: 2025-04-25 15:00:00
 ---

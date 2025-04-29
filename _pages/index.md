@@ -17,21 +17,16 @@ I also do a bit of writing, check out my recent notes below.
 [[what-s-the-all-about|What's the 🌱 all about?]]
 </p>
 
-<strong>Recently updated notes</strong>
-<ul>
-  <li>
-    [[Position statement🌱]]
-  </li>
-  <li>
-    [[Professionalism needs an update🌰]]
-  </li>
-  <li>
-    [[Share your ideas, they are seeds!🌱]]
-  </li>
-  <li>
-    [[The trouble with winning vs losing language🌱]]
-  </li>
-</ul>
-
+<section class="recent-notes">
+  <h2>Recent Notes</h2>
+  <ul>
+    {% for note in site.notes limit:4 %}
+      <li>
+        <a href="{{ note.url | relative_url }}">{{ note.title }}</a>
+        <span class="note-date">{{ note.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 
 ![Mac Plus](/assets/mac.png)
