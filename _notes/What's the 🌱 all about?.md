@@ -1,7 +1,8 @@
 ---
 layout: note
-title: What's the sprout all about?
+title: What's the 🌱 all about?
 date: 2025-04-29 11:01:00
+permalink: /sprout
 ---
 
 Basically the little emojis show the status and scope of an idea!
