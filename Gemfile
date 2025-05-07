@@ -9,7 +9,6 @@ gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyl
 gem "webrick", "~> 1.7"
 gem "nokogiri"
 
-gem 'feed-normalizer'
 gem 'time'
 gem 'yaml'
 gem 'to_slug'
