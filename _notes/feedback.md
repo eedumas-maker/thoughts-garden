@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: What do you think of Anti-Inflammatory Rhetoric?
+title: What do you think?
 
 permalink: /feedback
 ---
