@@ -4,13 +4,17 @@ title: Home
 id: home
 permalink: /
 ---
-
+<img src = "/assets/potted-plant.png" style = "float: right" alt="Pixelated Potted Plant"/>
 # Welcome!
 
-<img src = "/assets/potted-plant.png" style = "float: right" alt="Potted Plant"/>
 This is my [digital garden](https://maggieappleton.com/garden-history), a place to grow my ideas.
 
-My latest project is my podcast [[podcast|Anti-Inflammatory Rhetoric]] check it out, and if you'd like you can [[feedback|leave some feedback here.]]
+
+My latest project is my podcast [[podcast|Anti-Inflammatory Rhetoric]]. 
+
+I'm playing with a Q&A format, so leave me a question below and I'll speak to it on an episode!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGyC52gBN4zHfnEq80XttGGzbLF-evJRdSWLcKMk_-ZhLilw/viewform?embedded=true" width="640" height="660" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 I also do a bit of writing, check out my recent notes below.
 <p>
