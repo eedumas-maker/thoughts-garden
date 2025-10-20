@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: A different way to normalize
+title: Let's Grow Together 🌱
 
 permalink: /qanda
 ---
