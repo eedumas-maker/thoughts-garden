@@ -34,4 +34,6 @@ I also do a bit of writing, check out my recent notes below.
 [[what-s-the-all-about|What's the 🌱 all about?]]
 </p>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="eedumas" data-color="#fece53" data-emoji="☕"  data-font="Cookie" data-text="Buy me a cup" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+
 ![Mac Plus](/assets/mac.png)
