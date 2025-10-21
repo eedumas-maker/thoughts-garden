@@ -12,7 +12,7 @@ This is my [digital garden](https://maggieappleton.com/garden-history), a place 
 
 My latest project is my podcast [[podcast|Anti-Inflammatory Rhetoric]]. 
 
-I'm playing with a Q&A format, so leave me a question below and I'll feature it on an episode! [[Q-and-A-format|Let's Grow Together 🌱]]
+I'm playing with a Q&A format, so leave me a question below and I'll feature it on an episode! [[Q-and-A-format|Why the new format? 🌱]]
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGyC52gBN4zHfnEq80XttGGzbLF-evJRdSWLcKMk_-ZhLilw/viewform?embedded=true" width="640" height="660" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
